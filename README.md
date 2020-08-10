@@ -1,4 +1,4 @@
 # ChoiJeHyen.github.io
 ChoiJeHyen's Blog
 
-www.ChoiJeHyen.github.io
+https://choijehyen.github.io/
