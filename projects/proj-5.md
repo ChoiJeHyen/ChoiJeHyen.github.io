@@ -2,20 +2,29 @@
 layout: post
 title: '2048 Cross&Merge-2019'
 ---
+개인프로젝트 이야기
+https://play.google.com/store/apps/dev?id=7166405893667870846
+##개발엔진
+- **Unity**
 
-**가나다라**
+##참여기간
+- **2018년 10월 17일 ~ 2019년 12월 31일 (약 1년 2개월)**
 
-*아아아
-*-아아
-*아
-*아아
+##출시
+- **2016년 10월 7일 AOS,IOS 출시**
+- **2019년 7월 25일 Steam 출시**
+- **2020년 6월 11일 AOS,IOS,Steam 서비스종료**
 
->음
+##기술
+- **Node.js (TypeScript활용)**
+- **SVN 버전관리**
+- **Jenkins 자동배포**
 
+##작업
+- **신규컨텐츠(연합전) 프로토타이핑 및 구현**
+- **퍼포먼스 개선**
+- **가우시안 블러공식을 활용한 FogOfWar 셰이더 표현**
+- **NGUI,게임플레이,서버 버그 수정**
 
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-5/gun-pants.jpg" %}
+##요약
+라이브를 오래한 팀에 참여하며 작업파이프라인에서 느끼점들
