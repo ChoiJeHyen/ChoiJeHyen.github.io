@@ -54,7 +54,7 @@ contact: >
 
 projects:
 - {name: '탱고 파이브', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: '삼국지 조조전', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: '삼국지 조조전 온라인', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Light It Ball', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'BouncyCell', folder: 'proj-4', file: 'projects/proj-4.html'}
 - {name: '2048 Cross&Merge-2019', folder: 'proj-5', file: 'projects/proj-5.html'}
