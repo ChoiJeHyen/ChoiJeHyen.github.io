@@ -40,9 +40,20 @@ disqus:
 # About Section
 
 about: >
-  # 나에대해서
+  # About
 
-  간략소개하면될듯.
+  TechStack
+  -----
+  'Unity3D','C#', 'Git', 'Svn', 'DirectX', 'ComputerGraphice','Lua','SQL','Node.js','TypeScript','Actionscript','C++'
+
+  이력
+  -----
+  한국산업기술대학교 게임공학과
+  109Studio 2012 ~ 2013 (FaceBook WebGame)
+  ThingSoft 2015 ~ 2018
+  NexonKorea 2018 ~ 현재
+
+
 
 contact: >
   # Contact
