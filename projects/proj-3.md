@@ -28,13 +28,10 @@ title: 'Light It Ball (개인프로젝트)'
 
 작업
 ------
-- **신규컨텐츠(연합전) 프로토타이핑 및 구현**
-- **퍼포먼스 개선**
-- **가우시안 블러공식을 활용한 FogOfWar 셰이더 표현**
-- **NGUI,게임플레이,서버 버그 수정**
+- **프로젝트 전체 구현**
 
 요약
 ------
-라이브를 오래한 팀에 참여하며 작업파이프라인에서 느끼점들
+Jucy관점에서 케주얼게임을 빠르게 프로토타이핑, 래밸디자인하며 느낀 고찰들. 참고한 게임 LightItUp래밸디자인까지 바꾼점. 테스트를 병행하지않은점.
 
 [GooglePlay 링크](https://play.google.com/store/apps/details?id=com.PIGames.LightItBall)
