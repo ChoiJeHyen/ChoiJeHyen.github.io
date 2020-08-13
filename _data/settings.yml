@@ -42,16 +42,16 @@ disqus:
 about: >
   # About
 
-  TechStack
-  -----
-  'Unity3D','C#', 'Git', 'Svn', 'DirectX', 'ComputerGraphice','Lua','SQL','Node.js','TypeScript','Actionscript','C++'
+  ##TechStack
 
-  이력
-  -----
-  한국산업기술대학교 게임공학과
-  109Studio 2012 ~ 2013 (FaceBook WebGame)
-  ThingSoft 2015 ~ 2018
-  NexonKorea 2018 ~ 현재
+  \n'Unity3D','C#', 'Git', 'Svn', 'DirectX', 'ComputerGraphice','Lua','SQL','Node.js','TypeScript','Actionscript','C++'
+
+  ##이력
+
+  \n한국산업기술대학교 게임공학과
+  \n109Studio 2012 ~ 2013 (FaceBook WebGame)
+  \nThingSoft 2015 ~ 2018
+  \nNexonKorea 2018 ~ 현재
 
 
 
