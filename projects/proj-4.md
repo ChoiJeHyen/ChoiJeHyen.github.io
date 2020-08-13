@@ -3,33 +3,35 @@ layout: post
 title: 'BouncyCell'
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7HI8SnK9Vwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 개발엔진
 ------
 - **Unity**
 
-참여기간
+개발기간
 ------
-- **2018년 10월 17일 ~ 2019년 12월 31일 (약 1년 2개월)**
+- **2020년 4월 5일 ~ 2020년 4월 26일**
+- 퇴근 후 여가 시간에 개발 실작업기간 약 1주미만
+![BouncyCellHis](/assets/BouncyCellHis.PNG)
 
 출시
 ------
-- **2016년 10월 7일 AOS,IOS 출시**
-- **2019년 7월 25일 Steam 출시**
-- **2020년 6월 11일 AOS,IOS,Steam 서비스종료**
+- **2020년 4월 26일 AOS 출시**
 
 기술
 ------
-- **Node.js (TypeScript활용)**
-- **SVN 버전관리**
-- **Jenkins 자동배포**
+- **Git 버전관리**
+- **GitHub 활용**
+- **Unity Cloud Build 자동배포**
+- **UGUI 활용**
 
 작업
 ------
-- **신규컨텐츠(연합전) 프로토타이핑 및 구현**
-- **퍼포먼스 개선**
-- **가우시안 블러공식을 활용한 FogOfWar 셰이더 표현**
-- **NGUI,게임플레이,서버 버그 수정**
+- **프로젝트 전체 구현**
 
 요약
 ------
-라이브를 오래한 팀에 참여하며 작업파이프라인에서 느끼점들
+Jucy함을 잘표현해볼수있도록 연습용도로 만들어본 간단한게임.
+이전에 만들었던 게임은 래밸디자인때문에 고민하는시간, 레벨디자인을 편하기위한 파이프라인개발로 인한것들을 것어내고싶어서 무한모드로 진행해봄.
+플레피버드에서 영감을 얻고 사회적거리두기운동이 일어나는 코로나시대에 편승하려 컨셉 잡아봄. 밖에 나가지말고 집에서 같이 코로나 잡는 게임합시다라는 메세지가 있었지만 마켓에게 부정적으로 보여서 정지먹은 시나리오.

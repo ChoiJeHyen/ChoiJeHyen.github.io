@@ -3,28 +3,28 @@ layout: post
 title: 'Light It Ball (개인프로젝트)'
 ---
 
-개인프로젝트 이야기
-https://play.google.com/store/apps/dev?id=7166405893667870846
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T98_c9EH3ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 개발엔진
 ------
 - **Unity**
 
-참여기간
+개발기간
 ------
-- **2018년 10월 17일 ~ 2019년 12월 31일 (약 1년 2개월)**
+- 퇴근 후 여가 시간에 개발 실작업기간 약 2주
+![LightItballCommint](/assets/LightItballCommint.PNG)
 
 출시
 ------
-- **2016년 10월 7일 AOS,IOS 출시**
-- **2019년 7월 25일 Steam 출시**
-- **2020년 6월 11일 AOS,IOS,Steam 서비스종료**
+- **2019년 8월 19일 AOS 출시**
+
 
 기술
 ------
-- **Node.js (TypeScript활용)**
-- **SVN 버전관리**
-- **Jenkins 자동배포**
+- **Git 버전관리**
+- **GitHub 활용**
+- **Unity Cloud Build 자동배포**
+- **UGUI 활용**
 
 작업
 ------
@@ -36,3 +36,5 @@ https://play.google.com/store/apps/dev?id=7166405893667870846
 요약
 ------
 라이브를 오래한 팀에 참여하며 작업파이프라인에서 느끼점들
+
+[GooglePlay 링크](https://play.google.com/store/apps/details?id=com.PIGames.LightItBall)

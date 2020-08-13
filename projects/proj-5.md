@@ -2,6 +2,9 @@
 layout: post
 title: '2048 Cross&Merge-2019'
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkG76BghZx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 개발엔진
 ------
 - **Unity**
