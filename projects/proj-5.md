@@ -24,6 +24,7 @@ title: '2048 Cross&Merge-2019'
 요약
 ------
 2048을 변형한 룰을 빠르게 프로토타이핑 해본것.
-기본 출시 파이프라인을 경험하기위한 용도로 개발.
+AOS의 기본 출시 파이프라인을 경험하기위한 용도로 개발.
+Google Ads로 광고집행을 직접 진행해보며 마케팅 요소를 경험.
 
 [GooglePlay 링크](https://play.google.com/store/apps/details?id=com.PIGames.Cross2048)

@@ -40,6 +40,8 @@ title: '탱고파이브'
 
 요약
 ------
-
+프로젝트 초기에 참여해서 런칭 그리고 1년정도 짧은 라이브까지 모두 경험한 프로젝트.
+13~20명 정도의 규모의 팀에서 전반적인 개발 파이프라인을 경험해볼수 있었다.
+프로그래머로써의 업무 말고도 게임모드를 제안 및 프로토타이핑하고 실제 런칭때 메인모드로 채택된 경험이 있다.
 
 <iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/Mn9e5qdia5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
