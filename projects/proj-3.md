@@ -11,7 +11,7 @@ title: 'Light It Ball (개인프로젝트)'
 
 개발기간
 ------
-- 퇴근 후 여가 시간에 개발 실작업기간 약 2주
+- 실제 개발기간 약 2주
 ![LightItballCommint](/assets/LightItballCommint.PNG)
 
 출시

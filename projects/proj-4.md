@@ -12,7 +12,7 @@ title: 'BouncyCell'
 개발기간
 ------
 - **2020년 4월 5일 ~ 2020년 4월 26일**
-- 퇴근 후 여가 시간에 개발 실작업기간 약 1주미만
+- 실제 개발기간 약 1주미만
 ![BouncyCellHis](/assets/BouncyCellHis.PNG)
 
 출시
