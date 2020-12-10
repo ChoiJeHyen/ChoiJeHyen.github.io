@@ -27,4 +27,4 @@ title: '2048 Cross&Merge-2019'
 AOS의 기본 출시 파이프라인을 경험하기위한 용도로 개발.
 Google Ads로 광고집행을 직접 진행해보며 마케팅 요소를 경험.
 
-[GooglePlay 링크](https://play.google.com/store/apps/details?id=com.PIGames.Cross2048)
+[GooglePlay 링크](https://play.google.com/store/apps/details?id=com.PIGames.Cross2048){: target="_blank"}

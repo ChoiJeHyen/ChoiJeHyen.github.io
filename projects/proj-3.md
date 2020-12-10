@@ -43,4 +43,4 @@ LightItUp은 처음 15스테이지안에 게임안에 쓰이는 모든 기믹들
 그러나 생각보다 모이지 않는 유저들로인해 이런 최적화를 진행하여도 개선이 되었는지 여부를 확인하기 어려운 문제가 있었다.
 
 
-[GooglePlay 링크](https://play.google.com/store/apps/details?id=com.PIGames.LightItBall)
+[GooglePlay 링크](https://play.google.com/store/apps/details?id=com.PIGames.LightItBall){: target="_blank"}
