@@ -25,6 +25,7 @@ title: 'Light It Ball (개인프로젝트)'
 - **GitHub 활용**
 - **Unity Cloud Build 자동배포**
 - **UGUI 활용**
+- **UnityParticleSystem 활용**
 
 작업
 ------
